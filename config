@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	sharedrepository = 1
+[receive]
+	denyNonFastforwards = true
